@@ -1,14 +1,10 @@
 # Hamza Malik - Personal Portfolio
 
-<div align="center">
-<img alt="Hamza Malik Portfolio" src="https://github.com/Hamxa003/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
-
 A modern, responsive personal portfolio website built with Next.js 14, showcasing my work experience, skills, and projects.
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://hamza-malik.vercel.app)
+[View Portfolio](https://hamza-malik.com)
 
 ## ✨ Features
 
@@ -104,20 +100,3 @@ This portfolio is optimized for deployment on Vercel:
 2. Connect your repository to Vercel
 3. Deploy automatically on every push
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-While this is my personal portfolio, if you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## 📞 Contact
-
-- **Email**: hamzamalikm003@gmail.com
-- **LinkedIn**: [Hamza Malik](https://dub.sh/hamza-linkedin)
-- **GitHub**: [@Hamxa003](https://github.com/Hamxa003)
-
----
-
-Built with ❤️ by [Hamza Malik](https://github.com/Hamxa003)
