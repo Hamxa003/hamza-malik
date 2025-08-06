@@ -10,7 +10,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/lahore",
   description: "I love building things and helping people.",
   summary:
-    "Results-driven Full Stack JavaScript Engineer with 4+ years of experience building scalable, maintainable, and high-performance web applications across the entire software development lifecycle. Proven expertise in modern JavaScript frameworks (Node.js, React, Next.js), Test-Driven Development (TDD), and Agile methodologies. Skilled in translating complex business requirements into robust technical solutions through effective requirements gathering and system design.Adept at collaborating with cross-functional, globally distributed teams and driving projects from concept to deployment with strong communication and leadership skills.",
+    "I am a results-driven Full Stack JavaScript Engineer with over 4 years of experience in building scalable and maintainable web applications. My expertise lies in modern JavaScript frameworks like Node.js, React and Next.js. I excel in leading projects from conception to deployment while collaborating with diverse teams. I’m committed to delivering high-quality solutions that align with business objectives.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
@@ -75,19 +75,19 @@ export const DATA = {
       logoUrl: "/arbisoft.png",
       start: "August 2022",
       end: "Present",
-      description: "Working as a MERN dev",
+      description: "Responsible for developing and delivering major features independently, leading the frontend sub-team, and ensuring consistent code quality. Manage deployments and CI/CD workflows, and collaborate directly with clients to understand requirements and deliver solutions that meet their needs. Also involved in code reviews, mentoring junior developers, and improving existing systems for better performance and scalability.",
     },
     {
       company: "Frag Games",
       badges: [],
-      href: "https://nextbridge.com",
+      href: "https://www.frag-games.com/",
       location: "Onsite",
       title: "Fullstack Engineer",
       logoUrl: "/frag-games.png",
       start: "August 2021",
       end: "July 2022",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Responsible for end-to-end feature delivery with a strong focus on timely execution, UI design, and API development. Collaborated closely with cross-functional teams to architect scalable frontend interfaces and robust backend services. Played a key role in ensuring smooth integration between systems, maintaining code quality, and contributing to both the technical and product vision.",
     },
   ],
   education: [
